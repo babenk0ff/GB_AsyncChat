@@ -1,0 +1,8 @@
+list:
+- item_1
+- item_2
+- item_3
+integer: 123
+dict:
+  inner_1: 123€
+  inner_2: 300€
